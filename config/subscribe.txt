@@ -1,6 +1,14 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://raw.githubusercontent.com/xqrock/clashrule/master/Clash/config/hbyd.m3u
+https://raw.githubusercontent.com/xqrock/clashrule/master/Clash/config/xyitv.m3u
+https://raw.githubusercontent.com/xqrock/clashrule/master/Clash/config/xyitvnat.m3u
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
